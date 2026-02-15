@@ -65,12 +65,11 @@ Clear vocabulary separation between classes enables high accuracy
 All models achieve >91% accuracy on the test set
 
 ### Author
-Yashraj Chaturvedi
-B22AI059
+Yashraj Chaturvedi   
+B22AI059    
 IIT Jodhpur, Spring 2026
 
-License
-MIT License
-
+### License
+Apache 2.0
 
 

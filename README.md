@@ -56,3 +56,21 @@ This project implements and compares three machine learning classifiers with thr
 
 ```bash
 python B22AI059_prob4.py
+```
+
+### Key Findings
+Naive Bayes consistently outperforms other classifiers for this task
+Simple BoW features work better than complex TF-IDF or N-grams
+Clear vocabulary separation between classes enables high accuracy
+All models achieve >91% accuracy on the test set
+
+### Author
+Yashraj Chaturvedi
+B22AI059
+IIT Jodhpur, Spring 2026
+
+License
+MIT License
+
+
+
